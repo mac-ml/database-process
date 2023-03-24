@@ -1,0 +1,17 @@
+App name: Login Page
+Requirments: Boostrap, HTML, CSS, JS, Database (MongoDB, MySQL, SQL)
+Code: SQL, JavaScript
+
+
+Algorythms:
+1. Create HTML page (Login page) [+]
+2. Import Boostrap snipet [+]
+3. Create Database 
+4. Create server with js 
+
+
+- get into github adress to download snipets
+- use SQLite Viewer for see the database
+- or download DB Browser on https://sqlitebrowser.org/dl/
+
+

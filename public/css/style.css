@@ -1,0 +1,54 @@
+*html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+    width: 30%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+    margin-top: 50px;
+}
+input[type=text], input[type=password] {
+    padding: 8px;
+    margin: 10px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 16px;
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+}
+button:hover {
+    opacity: 0.8;
+}
+.cancelbtn {
+    background-color: #f44336;
+}
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+    position: relative;
+}
+img.avatar {
+    width: 100px;
+    border-radius: 50%;
+}
+.container a {
+    color: dodgerblue;
+}
+.signin {
+    background-color: #f1f1f1;
+    text-align: center;
+}
